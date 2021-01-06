@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Rajpra786/Entry-Management-Software#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "body-parser": "^1.19.0",
     "ejs": "^3.0.1",
     "express": "^4.17.1",
